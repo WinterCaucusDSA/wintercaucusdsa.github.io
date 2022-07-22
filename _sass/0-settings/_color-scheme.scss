@@ -1,0 +1,68 @@
+/* Color Scheme */
+
+:root {
+  --brand-color: #EC7A8E;
+  --white: #E5E9F0;
+  --light-gray: #d8dee9;
+  --light-blue: #5e81ac;
+  --blue-gray: #81a1c1;
+  --gray: #2E3440;
+  --dark: #2e3440;
+  --dark-blue: #1e2740;
+
+  --background-color: var(--white);
+  --background-alt-color: var(--light-gray);
+  
+  --text-color: var(--dark);
+  --text-alt-color: var(--gray);
+  
+  --heading-font-color: var(--dark);
+
+  --link-color: var(--dark);
+  --link-color-hover: var(--dark);
+
+  --button-color: var(--white);
+  --button-background-color: var(--brand-color);
+  --button-background-hover: var(--brand-color);
+
+  --border-color: var(--light-blue);
+  --border-color-alt: var(--light-blue);
+
+  --th-color: var(--light-gray);
+  --tr-color: var(--light-gray);
+
+  --syntax-highlighting-background: #f3f3f3;
+}
+
+:root[dark] {
+  --brand-color: #BF616A;
+  --white: #ECEFF4;
+  --light-gray: #e5e9f0;
+  --gray: #d8dee9;
+  --dark: #2e3440;
+
+
+
+  --background-color: var(--dark);
+  --background-alt-color: #171C25;
+  
+  --text-color: var(--gray);
+  --text-alt-color: var(--gray);
+  
+  --heading-font-color: var(--light-gray);
+
+  --link-color: var(--light-gray);
+  --link-color-hover: var(--light-gray);
+
+  --button-color: var(--white);
+  --button-background-color: var(--brand-color);
+  --button-background-hover: var(--brand-color);
+
+  --border-color: #252629;
+  --border-color-alt: #080b12;
+
+  --th-color: #18181d;;
+  --tr-color: #080b12;
+
+  --syntax-highlighting-background: #080b12;
+}
