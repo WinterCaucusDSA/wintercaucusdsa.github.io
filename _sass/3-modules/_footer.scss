@@ -14,33 +14,6 @@
   }
 }
 
-/* Footer Gallery */
-.footer__gallery {
-  .gallery {
-    grid-template-columns: repeat(4, auto);
-    margin-left: 0;
-    margin-bottom: 0;
-
-    img {
-      margin-left: 0;
-      margin-bottom: 0;
-      width: 100%;
-    }
-  }
-
-  .gallery__image {
-    img {
-      height: 100%;
-    }
-  }
-
-  @media only screen and (max-width: $desktop) {
-    .gallery {
-      grid-template-columns: repeat(2, auto);
-    }
-  }
-}
-
 /* Footer Author */
 .footer__author {
   display: flex;
@@ -133,7 +106,7 @@
 
 /* Footer Navigation */
 .footer__nav {
-  text-align: right;
+  text-align: left;
 
   @media only screen and (max-width: $desktop) {
     text-align: left;

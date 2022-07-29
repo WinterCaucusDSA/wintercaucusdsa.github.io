@@ -34,7 +34,6 @@ document.addEventListener("DOMContentLoaded", function() {
     });
   };
 
-
   // Theme Switcher
   function darkMode() {
     if (html.classList.contains('dark-mode')) {
