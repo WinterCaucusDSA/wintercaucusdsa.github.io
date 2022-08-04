@@ -1,18 +1,22 @@
 <!-- begin header -->
 <header class="header" id="top">
+
+
   <div class="container-big">
+    <div class = "banner">
+      <div class="logo">
+        <a class="logo__link" href="{{ site.baseurl }}/">
+        {% if site.data.settings.logo %}
+          <img class="logo__image" src="{{ site.baseurl }}{{ site.data.settings.logo }}" alt="{{ site.data.settings.title }}">
+        {% else %}
+          {{ site.data.settings.title }}
+        {% endif %}
+        </a>
+      </div>
+    </div>
+
     <div class="row">
       <div class="header__inner col col-12">
-        <div class="logo">
-          <a class="logo__link" href="{{ site.baseurl }}/">
-          {% if site.data.settings.logo %}
-            <img class="logo__image" src="{{ site.baseurl }}{{ site.data.settings.logo }}" alt="{{ site.data.settings.title }}">
-          {% else %}
-            {{ site.data.settings.title }}
-          {% endif %}
-          </a>
-        </div>
-
         <nav class="main-nav">
           <div class="main-nav__box">
             <div class="nav__icon-close">
@@ -67,6 +71,9 @@
 
       </div>
     </div>
+    <hr class = "nav-underline"></hr>
+
+
   </div>
 </header>
 <!-- end header -->
