@@ -5,7 +5,7 @@ layout: default
 <div class="container">
   <div class="row">
 
-    <div class="col col-12">
+    <div class="col col-8">
       <div class="page-head">
         <h1 class="page-title">{{ page.title | escape }}</h1>
         {% if page.description %}
@@ -15,7 +15,7 @@ layout: default
     </div>
 
     {%if page.image %}
-    <div class="col col-12">
+    <div class="col col-8">
       <div class="page-image animate">
         <img class="lazy" data-src="{{site.baseurl}}{{page.image}}" alt="{{page.title}}">
       </div>

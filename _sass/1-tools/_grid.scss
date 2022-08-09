@@ -1,9 +1,10 @@
 /* Grid */
-$columns: 12;
-$container-base-width: 1200px;
+$columns: 8;
+$tile-container-base-width: 800px;
+$container-base-width: 640px;
 $container-offset: $base-spacing-unit;
 
-$wide: 1400px;
+$wide: 1280px;
 $desktop: 1024px;
 $tablet:  768px;
 $mobile:  576px;

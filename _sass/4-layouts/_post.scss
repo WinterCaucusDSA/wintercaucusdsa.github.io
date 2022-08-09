@@ -63,11 +63,11 @@
 .post-title,
 .page-title {
   margin-bottom: 32px;
-  font-size: 72px;
+  font-size: $font-size-h1;
   line-height: 1;
 
   @media only screen and (max-width: $wide) {
-    font-size: 60px;
+    font-size: 48px;
   }
 
   @media only screen and (max-width: $mobile) {
@@ -130,7 +130,7 @@
 .post,
 .page,
 .project-content {
-  max-width: 780px;
+  max-width: 640px;
   margin: 0 auto 60px;
   color: var(--text-color);
 
@@ -255,7 +255,7 @@
 }
 
 .post__comments {
-  max-width: 780px;
+  max-width: 640px;
   margin: 0 auto 100px;
 
   @media only screen and (max-width: $mobile) {

@@ -7,7 +7,7 @@
     align-items: center;
     flex-wrap: nowrap;
     padding: 48px $base-spacing-unit;
-    padding-bottom: 24px;
+    padding-bottom: 12px;
 
     @media only screen and (max-width: $desktop) {
       padding: 32px $base-spacing-unit;
@@ -20,8 +20,8 @@
 }
 
 .banner{
-  margin-top: 96px;
-  margin-bottom: 48px;
+  margin-top: 48px;
+  margin-bottom: 24px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -223,9 +223,9 @@
 }
 
 hr.nav-underline {
-  border: 3px var(--background-alt-color);
+  border: 4px;
   margin: 0;
-  margin-bottom: 128px;
+  margin-bottom: 48px;
 }
 
 .nav__list {
@@ -234,7 +234,7 @@ hr.nav-underline {
 
   .nav__item {
     display: inline-block;
-    margin-right: 48px;
+    margin-right: 96px;
     margin-bottom: 0;
 
     &:last-child {
@@ -245,7 +245,7 @@ hr.nav-underline {
       position: relative;
       padding: 12px 0;
       font-family: $heading-font-family;
-      font-size: 20px;
+      font-size: 16px;
       line-height: 1;
       font-weight: 700;
       transition: color .2s ease;
