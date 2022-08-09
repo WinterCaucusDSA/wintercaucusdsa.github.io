@@ -1,6 +1,6 @@
 /* Article */
 .article {
-  margin-bottom: 64px;
+  margin-bottom: 128px;
   will-change: transform;
   transition: transform .2s ease-in-out;
 
@@ -15,7 +15,7 @@
 
 .blog {
   .article {
-    margin-bottom: 32px;
+    margin-bottom: 128px;
   }
   
 }

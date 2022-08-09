@@ -1,6 +1,7 @@
 /* Post + Page */
 .post-head,
 .page-head {
+  margin-top: 96px;
   margin-bottom: 48px;
   text-align: center;
 
@@ -131,7 +132,7 @@
 .page,
 .project-content {
   max-width: 840px;
-  margin: 0 auto 60px;
+  margin-bottom: 128px;
   color: var(--text-color);
 
 
@@ -174,7 +175,7 @@
 /* Share */
 .post__share {
   padding-bottom: 48px;
-  border-bottom: 1px solid var(--background-alt-color);
+  // border-bottom: 0px solid var(--background-alt-color);
 
   .share__list {
     display: flex;
@@ -246,23 +247,6 @@
 
   &.is-related {
     display: block;
-  }
-}
-
-/* Disqus */
-.show-comments {
-  margin-top: 16px;
-  text-align: center;
-}
-
-.post__comments {
-  max-width: 640px;
-  margin: 0 auto 100px;
-
-  @media only screen and (max-width: $mobile) {
-     &.is-open {
-       margin: 0 auto 80px;
-     }
   }
 }
 
