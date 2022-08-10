@@ -1,7 +1,6 @@
 /* Post + Page */
 .post-head,
 .page-head {
-  margin-top: 96px;
   margin-bottom: 48px;
   text-align: center;
 
@@ -63,7 +62,8 @@
 
 .post-title,
 .page-title {
-  margin-bottom: 32px;
+  margin-top: 36px;
+  margin-bottom: 36px;
   font-size: $font-size-h1;
   line-height: 1;
 
