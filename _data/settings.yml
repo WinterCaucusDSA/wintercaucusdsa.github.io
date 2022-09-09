@@ -11,11 +11,11 @@ menu__settings:
   menu__items:
     - title: 'Principles'
       url: '/'
-    - title: 'Education'
+    - title: 'Political Education'
       url: '/projects/'
     - title: 'Articles'
       url: '/blog/'
-    - title: 'Join Us'
+    - title: 'Contact Us'
       url: '/contact/'
 #    - title: 'Elements'
 #      url: '/elements/'
@@ -106,8 +106,8 @@ footer_contact__settings:
 #-------------------------------
 # Contact Settings
 contact:
-  email: wintercaucus@gmail.com # Add your form_id
-  description: If you'd like to join us or have any other questions, feel free to email us or get in contact in the form below and we'll get in touch with you soon.  # Add a description of your form
+  email: mgeqwvjv # Add your form_id
+  description: If you'd like to join us or have any other questions, feel free to email us at wintercaucus@gmail.com or use the form below and we'll get in touch with you soon.  # Add a description of your form
 
 # NOTE
 # Hilton theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
