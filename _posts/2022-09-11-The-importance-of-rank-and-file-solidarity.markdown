@@ -4,6 +4,7 @@ title:  The importance of rank-and-file solidarity
 description: An interview with a Starbucks organizer in Buffalo
 date: 2022-09-11 
 image: '/images/Articles/TheImportanceOfRankAndFileStrategy/Header.jpg'
+social_image: 'images/Articles/TheImportanceOfRankAndFileStrategy/Header.jpg'
 tags:   [labor, starbucks, new york]
 ---
 
