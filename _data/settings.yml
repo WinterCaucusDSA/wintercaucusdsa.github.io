@@ -36,39 +36,6 @@ mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315a
 mailchimp__input__text: Your email address...
 mailchimp__button__text: Get updates
 
-#-------------------------------
-# Projects Settings
-projects__settings:
-  projects__title: Latest works
-  projects__description: I shows only the best websites and portfolios built completely with passion, simplicity & creativity!
-
-
-#-------------------------------
-# Testimonials Section
-testimonial__title: What clients say
-testimonial__description:
-
-testimonial__items:
-  - name: "Aspen Carder"
-    image: "/images/client-1.jpg"
-    designation: "Lettering Artist"
-    link: "https://twitter.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
-#-------------------------------
-# Blog Section
-blog__settings:
-  blog__title: Recent Posts
-  blog__description:
-
-
-#-------------------------------
-# Gallery Footer Settings
-gallery:
-  gallery__images:
-    - alt: 'Rest'
-      url: '/images/gallery-1.jpg'
-
 
 #-------------------------------
 # Footer Navigation Settings
@@ -80,7 +47,6 @@ footer_menu__settings:
       #url: '/projects/'
     - title: 'Articles'
       url: '/blog/'
-
 
 #-------------------------------
 # Footer Navigation Settings
@@ -95,13 +61,6 @@ footer_contact__settings:
 contact:
   email: mgeqwvjv # Add your form_id
   description: If you'd like to join us or have any other questions, feel free to email us at wintercaucus@gmail.com or use the form below and we'll get in touch with you soon.  # Add a description of your form
-
-# NOTE
-# Hilton theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
-
-#-------------------------------
-# Comment Section (Disqus)
-disqus-identifier: anvodstudio-demo # Add your shortname for Disqus Comment. For example anvodstudio-demo
 
 #-------------------------------
 # Google Analytics
