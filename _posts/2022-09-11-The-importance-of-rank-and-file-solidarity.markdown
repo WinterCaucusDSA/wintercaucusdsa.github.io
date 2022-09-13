@@ -53,7 +53,7 @@ Ultimately, Starbucks fired Sam for a routine decision he didn’t even make, by
 
 ![Sam on the picket line. Despite being fired, he still fights.](/images/Articles/TheImportanceOfRankAndFileStrategy/Honk4Unions.jpg)Sam on the picket line. Despite being fired, he still fights.
 
-Sam is not the only worker who has been fired. At least 10 union supporters have been fired in Buffalo, and the best estimate is that seventy-five Starbucks workers across the country have been fired for union activity. Firing someone for organizing a union is a blatant violation of Section 7 of the National Labor Relations Act (NLRA), which states:
+Sam is not the only worker who has been fired. At least 10 union supporters have been fired in Buffalo, and the best estimate is that 92 Starbucks workers across the country have been fired for union activity. Firing someone for organizing a union is a blatant violation of Section 7 of the National Labor Relations Act (NLRA), which states:
 
 “Employees shall have the right to self-organization, to form, join, or assist labor organizations, to bargain collectively through representatives of their own choosing, and to engage in other concerted activities for the purpose of collective bargaining or other mutual aid or protection, and shall also have the right to refrain from any or all of such activities."
 

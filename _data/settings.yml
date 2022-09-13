@@ -60,7 +60,7 @@ footer_contact__settings:
 # Contact Settings
 contact:
   email: mgeqwvjv # Add your form_id
-  description: If you'd like to join us or have any other questions, feel free to email us at wintercaucus@gmail.com or use the form below and we'll get in touch with you soon.  # Add a description of your form
+  description: If you have any other questions or like to request more information, feel free to email us at wintercaucus@gmail.com or use the form below and we'll get in touch with you soon.  # Add a description of your form
 
 #-------------------------------
 # Google Analytics
