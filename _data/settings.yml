@@ -52,7 +52,7 @@ footer_menu__settings:
 # Footer Navigation Settings
 footer_contact__settings:
   menu__items:
-    - title: 'Join Winter'
+    - title: 'Contact Winter'
       url: '/contact/'
     - title: 'Join DSA'
       url: 'https://www.dsausa.org/'
